@@ -1,4 +1,4 @@
-//package io.ktor.samples.testable
+package app.kaz.ktor.study
 
 import io.ktor.application.Application
 import io.ktor.application.ApplicationCallPipeline

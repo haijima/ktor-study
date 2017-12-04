@@ -1,3 +1,5 @@
+package app.kaz.ktor.study
+
 //package io.ktor.samples.testable.tests
 
 import io.ktor.application.Application
